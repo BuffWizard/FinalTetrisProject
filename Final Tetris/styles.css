@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background: #aaa;
+	background-image:url('images/tetris.jpg');
+}
+#my-canvas {
+    background: #fff;
+    margin-left: 10px;
+    margin-top: 10px;
+}
